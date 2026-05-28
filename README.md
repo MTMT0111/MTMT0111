@@ -1,4 +1,4 @@
-# Hi, I'm Iris 👋
+# Hi, I'm Charles 👋
 
 I am an undergraduate student in Applied Mathematics, focusing on **Robotics**, **Artificial Intelligence**, **Risk-aware Security**, and **Data-driven Decision Systems**.
 
