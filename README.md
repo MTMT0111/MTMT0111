@@ -69,6 +69,14 @@ A prototype companion application using dialogue, persistent memory, and user pr
 
 Repository: [alz-memory-assistant](https://github.com/MTMT0111/alz-memory-assistant)
 
+### More Public Projects
+
+| Project | What you can explore |
+| --- | --- |
+| Zhiyi (知意) | A Windows companion for drafting replies to shared articles and videos. [Online demo](https://mtmt0111.github.io/xingyu/) · [Windows downloads](https://github.com/MTMT0111/xingyu/releases/latest) |
+| Unfinished Office (烂尾事务所) | A pixel-art puzzle game about revisiting and saying goodbye to a project. [Play the browser demo](https://mtmt0111.github.io/unfinished-office-play/) |
+| LCOS-R | A ROS 2 lunar construction simulation with two rovers, task coordination, and quality checks. [Source and launch instructions](https://github.com/MTMT0111/lcosr-lunar-construction-system) |
+
 ---
 
 ## 📝 Papers & Research Reports
